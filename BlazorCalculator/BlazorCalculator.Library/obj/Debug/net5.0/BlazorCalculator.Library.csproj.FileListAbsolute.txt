@@ -1,0 +1,12 @@
+D:\Study\git\rahulsalvi2k7\BlazorCalculator\BlazorCalculator\BlazorCalculator.Library\bin\Debug\net5.0\BlazorCalculator.Library.deps.json
+D:\Study\git\rahulsalvi2k7\BlazorCalculator\BlazorCalculator\BlazorCalculator.Library\bin\Debug\net5.0\BlazorCalculator.Library.dll
+D:\Study\git\rahulsalvi2k7\BlazorCalculator\BlazorCalculator\BlazorCalculator.Library\bin\Debug\net5.0\ref\BlazorCalculator.Library.dll
+D:\Study\git\rahulsalvi2k7\BlazorCalculator\BlazorCalculator\BlazorCalculator.Library\bin\Debug\net5.0\BlazorCalculator.Library.pdb
+D:\Study\git\rahulsalvi2k7\BlazorCalculator\BlazorCalculator\BlazorCalculator.Library\obj\Debug\net5.0\BlazorCalculator.Library.csprojAssemblyReference.cache
+D:\Study\git\rahulsalvi2k7\BlazorCalculator\BlazorCalculator\BlazorCalculator.Library\obj\Debug\net5.0\BlazorCalculator.Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\git\rahulsalvi2k7\BlazorCalculator\BlazorCalculator\BlazorCalculator.Library\obj\Debug\net5.0\BlazorCalculator.Library.AssemblyInfoInputs.cache
+D:\Study\git\rahulsalvi2k7\BlazorCalculator\BlazorCalculator\BlazorCalculator.Library\obj\Debug\net5.0\BlazorCalculator.Library.AssemblyInfo.cs
+D:\Study\git\rahulsalvi2k7\BlazorCalculator\BlazorCalculator\BlazorCalculator.Library\obj\Debug\net5.0\BlazorCalculator.Library.csproj.CoreCompileInputs.cache
+D:\Study\git\rahulsalvi2k7\BlazorCalculator\BlazorCalculator\BlazorCalculator.Library\obj\Debug\net5.0\BlazorCalculator.Library.dll
+D:\Study\git\rahulsalvi2k7\BlazorCalculator\BlazorCalculator\BlazorCalculator.Library\obj\Debug\net5.0\ref\BlazorCalculator.Library.dll
+D:\Study\git\rahulsalvi2k7\BlazorCalculator\BlazorCalculator\BlazorCalculator.Library\obj\Debug\net5.0\BlazorCalculator.Library.pdb
