@@ -48,3 +48,31 @@ a, .btn-link {
         right: 0.75rem;
         top: 0.5rem;
     }
+
+.btn-number {
+    width: 100px;
+    height: 80px;
+    padding-top: 25px;
+    border: 1px solid grey;
+}
+
+    .btn-number:hover {
+        border: 1px solid blue;
+    }
+
+.btn-memory {
+    width: 79px;
+    height: 80px;
+    padding-top: 25px;
+    border: 1px solid grey;
+    background-color: steelblue;
+    color: white;
+}
+
+    .btn-memory:hover {
+        border: 1px solid blue;
+    }
+
+.br {
+    border: 1px solid red;
+}

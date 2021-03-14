@@ -1,7 +1,104 @@
 ﻿@page "/Calculator"
 
-<h3>Calculator</h3>
+@using BlazorCalculator.Server.Components
 
-@code {
+<div class="container" style="width:400px">
 
-}
+    <table style="width:100%;" class="br">
+        <tr>
+            <td>
+                <CurrentExpression></CurrentExpression>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <CurrentValue></CurrentValue>
+            </td>
+        </tr>
+    </table>
+
+    <table style="width:100%;" class="br">
+        <tr>
+            <td>
+                <ButtonMc></ButtonMc>
+            </td>
+            <td>
+                <ButtonMR></ButtonMR>
+            </td>
+            <td>
+                <ButtonMPlus></ButtonMPlus>
+            </td>
+            <td>
+                <ButtonMMinus></ButtonMMinus>
+            </td>
+            <td>
+                <ButtonMS></ButtonMS>
+            </td>
+        </tr>
+    </table>
+
+    <table>
+        <tr>
+            <td>
+                <Button7></Button7>
+            </td>
+            <td>
+                <Button8></Button8>
+            </td>
+            <td>
+                <Button9></Button9>
+            </td>
+            <td>
+                <ButtonMultiply></ButtonMultiply>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <Button4></Button4>
+            </td>
+            <td>
+                <Button5></Button5>
+            </td>
+            <td>
+                <Button6></Button6>
+            </td>
+            <td>
+                <ButtonSubtract></ButtonSubtract>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <Button1></Button1>
+            </td>
+            <td>
+                <Button2></Button2>
+            </td>
+            <td>
+                <Button3></Button3>
+            </td>
+            <td>
+                <ButtonAdd></ButtonAdd>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <ButtonSign></ButtonSign>
+            </td>
+            <td>
+                <Button0></Button0>
+            </td>
+            <td>
+                <ButtonDecimal></ButtonDecimal>
+            </td>
+            <td>
+                <ButtonEquals></ButtonEquals>
+            </td>
+        </tr>
+    </table>
+
+
+</div>
+
+    @code {
+
+    }

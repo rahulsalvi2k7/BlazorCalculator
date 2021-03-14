@@ -82,6 +82,13 @@ using BlazorCalculator.Server.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "D:\Study\git\rahulsalvi2k7\BlazorCalculator\BlazorCalculator\BlazorCalculator.Server\Pages\Calculator.razor"
+using BlazorCalculator.Server.Components;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/Calculator")]
     public partial class Calculator : Microsoft.AspNetCore.Components.ComponentBase
     {
